@@ -22,8 +22,7 @@ title: Transportation Alternatives Union
 email: taunion2110@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Fighting for a stronger, more equitable Transportation Alternatives
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "taunion.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TransAlt_Union
 
 # Build settings
